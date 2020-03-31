@@ -68,7 +68,7 @@ Install pyvis package for network analysis and visualization via pip or another 
 
 ```
 # Install pyvis package via pip command
-$ pip install pyvis
+pip install pyvis
 ```
 
 
